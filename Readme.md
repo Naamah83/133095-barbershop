@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Екатерина Пономаренко](https://up.htmlacademy.ru/htmlcss/13/user/133095).
+* Наставник: [Евгений Болтян](https://htmlacademy.ru/profile/id83202).
 
 ---
 
